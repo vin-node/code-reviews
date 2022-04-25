@@ -1,6 +1,9 @@
 [From Darragh](https://dev.to/darraghor/20-questions-for-valuable-code-reviews-3g9i)
 [Darragh ORiordan](https://www.darraghoriordan.com/)
+
 # 20 code readability and functional correctness code review questions
+---
+
 Is the intent clear?
 Is there needless duplication?
 Could existing code have solved this?
