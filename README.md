@@ -2,7 +2,6 @@
 [Darragh ORiordan](https://www.darraghoriordan.com/)
 
 # 20 code readability and functional correctness code review questions
----
 
 Is the intent clear?
 Is there needless duplication?
